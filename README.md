@@ -2,8 +2,10 @@
 
 <img width="960" alt="screen shot" src="https://user-images.githubusercontent.com/82916717/175448764-537ca6e8-d430-44e7-a5db-0d538bf9a3e4.png">
 
-YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of Colt Steele's web dev course on udemy.
+Camper is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of Colt Steele's web dev course on udemy.
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
+
+## https://goodcamps.herokuapp.com/
 
 ## Features
 * Users can create, edit, and remove campgrounds
